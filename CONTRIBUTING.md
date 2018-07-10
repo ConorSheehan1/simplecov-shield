@@ -3,7 +3,7 @@
 ## Specs
 
 ````
-  bundle exec rake
+  bundle exec rspec
 ````
 
 ## Workflow
